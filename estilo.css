@@ -1,0 +1,50 @@
+ <!DOCTYPE html>
+ <html>
+ <style>
+ <body   bgcolor="#E8DAEF" text="#2980B9 " link="#F8C471" alink="#E59866 " vlink="#F5B041">
+#navegador ul{
+   list-style-type: none;
+   text-align: center;
+}
+#navegador li{
+   display: inline;
+   text-align: center;
+   margin: 0 10px 0 0;
+}
+#navegador li a {
+   padding: 2px 7px 2px 7px;
+   color: #666;
+   background-color: #FADBD8;
+   border: 1px solid #ccc;
+   text-decoration: none;
+}
+#navegador li a:hover{
+   background-color: #FADBD8;
+   color: #E67E22 ;
+
+}
+#titulo{
+text-align: center;
+color:#ff66cc;
+font-family: impact;
+font-size: 46px;
+text-shadow: -1px -1px 1px #000, 1px 1px 1px #000, -1px 1px 1px #000, 1px -1px 1px #000;
+-webkit-text-fill-color: #1DD696;
+-webkit-text-stroke: 2px black;
+ 
+}
+#ima{
+  border-style: groove; width: 16%; height: 20px 
+  color: red; 
+
+
+  }
+  #cm{
+   font-family: Lucida Bright; 
+   color: #C86358;
+
+  }
+
+   </style>
+ </head>
+ </html>
